@@ -10,6 +10,6 @@
 	{{template "blocks/block.tpl"}}
 
 	<h2>{{ .Title }}</h2>
-	<p> This is SomeVar: {{ .SomeVar }}</p>
+	<p> This is SomeVar1: {{ .SomeVar }}</p>
   </body>
 </html>
